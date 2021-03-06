@@ -1,5 +1,5 @@
-Build: sol1.c
-	gcc sol1.c -lpthread 
+Build: ques1.c
+	gcc ques1.c -lpthread 
 
 run:Build
 	./a.out
